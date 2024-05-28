@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-— —Know me through the following ways— — 
+— —More info in the following— — 
 
 🔭 Academic Pages: Stupid1Fish.github.io
 

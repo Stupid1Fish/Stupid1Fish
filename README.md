@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-— — — —Know me through the following ways
+— — Know me through the following ways
 
 🔭 Academic Pages: Stupid1Fish.github.io
 

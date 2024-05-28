@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Academic Pages: Stupid1Fish.github.io
-
+🔭 Academic Pages: Stupid1Fish.github.io
+⚡ Kaggle Profile: https://www.kaggle.com/fish321

@@ -1,4 +1,5 @@
 ## Hi there 👋
+Statu: Unemployed and Opting Out
 
 <!--
 **Stupid1Fish/Stupid1Fish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

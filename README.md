@@ -1,4 +1,4 @@
-## <div align="center">Hi there 👋</div>  
+## Hi there 👋
 - Statu: Unemployed and opting out
 
 <!--
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - ⚡ Kaggle Profile: https://www.kaggle.com/fish321
 
-# My Skill Set  
+## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 ### Data analysis

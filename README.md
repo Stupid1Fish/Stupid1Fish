@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 - 🔭 Academic Pages: Stupid1Fish.github.io
 
 - ⚡ Kaggle Profile: https://www.kaggle.com/fish321
-
+<br> 
+<br/>
 
 ## Data analysis skill
 <tr><td valign="top" width="55%">

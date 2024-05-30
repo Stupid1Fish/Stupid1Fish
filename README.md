@@ -22,10 +22,9 @@ Here are some ideas to get you started:
 
 - ⚡ Kaggle Profile: https://www.kaggle.com/fish321
 
-## My Skill Set  
-<table><tr><td valign="top" width="55%">
-
-### Data analysis skill
+## Data analysis skill
+<tr><td valign="top" width="55%">
+  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
@@ -33,7 +32,7 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />  
 </div>
 
-</td></tr></table>  
+</td></tr>
 
 
 

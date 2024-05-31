@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Hi there 👋
+## Hi there, I'm 阿耀 👋
 - 🌱 Statu: Unemployed and opting out
 
 - 🔭 Academic Pages: Stupid1Fish.github.io
